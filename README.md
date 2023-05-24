@@ -3,5 +3,5 @@
 
 Gif dosyası eklendi
 
-![] (screen.gif)
+![](screen.gif)
 
